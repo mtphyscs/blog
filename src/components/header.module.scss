@@ -1,14 +1,18 @@
+@import url(https://fonts.googleapis.com/css2?family=Baloo+Thambi+2:wght@500&display=swap);
+
 .header {
   padding: 1rem 0 3rem;
 }
 
 .title {
+  font-family: 'Baloo Thambi 2', cursive;
   color: #000000;
   font-size: 3rem;
   text-decoration: none;
 }
 
 .nav-list {
+  font-family: 'Baloo Thambi 2', cursive;
   display: flex;
   list-style-type: none;
   margin: 0;

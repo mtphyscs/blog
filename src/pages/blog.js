@@ -4,6 +4,7 @@ import blogStyles from './blog.module.scss'
 
 
 import Layout from "../components/layout"
+import Head from '../components/head'
 
 
 // MARKDOWN BLOG
@@ -30,6 +31,7 @@ const BlogPage = () => {
 
   return (
     <Layout>
+      <Head title="Blog"/>
       <h1>Blog</h1>
      <ol className={blogStyles.posts}>
        {data.allMarkdownRemark.edges.map((edge)=>{

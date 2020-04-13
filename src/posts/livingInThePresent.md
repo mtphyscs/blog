@@ -1,6 +1,6 @@
 ---
 title: "Living in the present"
-date: "02-24-2020"
+date: "(Monday, Febraury 24th 2020)"
 ---
 
 Living in the present is perhaps one of the most frequently found tips in the personal and spiritual growth literature . I have always wondered how to put into practice that recommendation that seemed so simple in its description, but so complex in its execution, because for ordinary human beings it is not easy for us to escape the ramblings of the mind about what has been lived in the past. and what we hope to experience in the future. 

@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css2?family=Baloo+Thambi+2:wght@500&display=swap);
+
 .posts {
     list-style-type: none;
     margin: 0;
@@ -6,7 +8,9 @@
 .post{
     margin: 1rem 0;
 
-    a{
+   
+ a{
+        font-family: 'Baloo Thambi 2', cursive;
         background: #f4f4f4;
         color: #000000;
         display:block;
@@ -21,6 +25,7 @@
         margin-bottom:0;
     }
     p{
+        font-family: 'Baloo Thambi 2', cursive;
         color: #777777;
         font-size: .8rem;
         font-style: italic;

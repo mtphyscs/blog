@@ -17,11 +17,11 @@ const Header = () => {
 
   return (
     <header className={headerStyles.header}>
-      <h1>
+      <h3>
         <Link className={headerStyles.title} to="/">
           {data.site.siteMetadata.title}
         </Link>
-      </h1>
+      </h3>
       <nav>
         <ul className={headerStyles.navList}>
           <li>
@@ -62,7 +62,9 @@ const Header = () => {
           </li>
         </ul>
       </nav>
+      <hr width="100%"/>
     </header>
+  
   )
 }
 

@@ -1,6 +1,6 @@
 ---
 title: "Life"
-date: "02-22-2020"
+date: "(Saturday, February 22nd 2020)"
 ---
 Each human being has personal responsibility from the day they are born. To a certain extent, even small children can be held responsible – in all areas that they can independently oversee, evaluate and answer for.
 
