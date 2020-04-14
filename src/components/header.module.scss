@@ -6,9 +6,12 @@
 
 .title {
   font-family: 'Baloo Thambi 2', cursive;
-  color: #000000;
+  color: #d6d2d2;
   font-size: 3rem;
   text-decoration: none;
+}
+.title:hover {
+  color: rgb(219, 78, 13);
 }
 
 .nav-list {
@@ -19,16 +22,16 @@
 }
 
 .nav-item {
-  color: grey;
+  color: #d6d2d2;
   font-size: 0.9rem;
   margin-right: 1.3rem;
   text-decoration: none;
 }
 
 .nav-item:hover {
-  color: #666666;
+  color: rgb(219, 78, 13);
 }
 
 .active-nav-item {
-  color: #333333;
+  color: #6418c7;
 }

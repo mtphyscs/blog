@@ -5,7 +5,7 @@ import blogStyles from './blog.module.scss'
 
 import Layout from "../components/layout"
 import Head from '../components/head'
-
+// import anime from 'animejs/lib/anime.es.js';
 
 // MARKDOWN BLOG
 

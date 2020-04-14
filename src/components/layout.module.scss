@@ -1,10 +1,15 @@
 @import url(https://fonts.googleapis.com/css2?family=Baloo+Thambi+2:wght@500&display=swap);
 
+body{
+background-color: rgb(19, 18, 19);
+color: #d6d2d2;
+}
 .container {
   font-family: 'Baloo Thambi 2', cursive;
   margin: 0 auto;
   max-width: 750px;
   padding: 1rem;
+ 
 
   display: flex;
   flex-direction: column;
