@@ -64,6 +64,15 @@ const Header = () => {
             <Link
               className={headerStyles.navItem}
               activeClassName={headerStyles.activeNavItem}
+              to="/sound-design"
+            >
+              Sound Design
+            </Link>
+          </li>
+          <li>
+            <Link
+              className={headerStyles.navItem}
+              activeClassName={headerStyles.activeNavItem}
               to="/contact"
             >
               Contact
