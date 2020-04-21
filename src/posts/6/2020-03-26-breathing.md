@@ -1,0 +1,20 @@
+---
+title: "Breathing"
+date: "(Thursday, March 26th 2020)"
+---
+
+Do you know what breathing is? Let's review this process. Breathing allows, through the lungs, to inhale oxygen and exhale carbon dioxide . I'm not going to go too deep into the process, but I think it's important that we understand how it works so that we can establish the relationship between our health and breathing.
+
+When inhaled, oxygen in the air penetrates through the nostrils where it is heated, moistened, enters the lungs and reaches the pulmonary alveoli , which are small terminal pits of the bronchioles that are covered by a thin layer whose thickness is that of a cell (approximately one micron). Oxygen released from the air passes through this thin layer and circulates through the capillaries of the alveoli (small blood vessels) until it reaches the blood. Once oxygen passes into the bloodstream, hemoglobin is responsible for capturing it in red blood cells. In this process, oxygenated blood reaches the left side of the heart, from where it is driven to the rest of the body.
+
+Meanwhile, carbon dioxide-laden blood returns to the right side of the heart through the vena cava (upper and lower), from where it is propelled into the lungs by the pulmonary artery to collect more oxygen and release carbon dioxide , what it does in the same way as it takes oxygen, but in the opposite direction: the carbon dioxide that comes in the blood, passes through that thin layer in the alveoli and passes inside them, from where it is exhaled to the outside.
+
+The oxygen we extract from the air in the lungs is used to generate the energy that each of the body's cells needs to fulfill its functions. But cells only have a fairly limited capacity to retain oxygen, so they practically use it when receiving it . That is the reason why breathing is a continuous process that cannot be stopped. If we stop breathing, the cells of the body die and, consequently, the body itself. 
+
+The blood and the circulatory system are responsible for distributing oxygen throughout the body, which is also a process that cannot be stopped. Therefore, in the absence of oxygen, the cells of the body would begin to die in quantities, which would cause the collapse and subsequent death of the physical body . Likewise, the lack of oxygen or an inadequate reduction of it can cause mutations at the cellular level that could lead to diseases. That is why it is so important to generate life habits in relation to the breathing process.
+
+Learn to breathe. It may sound bad to say this, but the truth is that we do not know how to breathe. If you analyze your breathing, it tends to be short and fast. Think about it. How often do you breathe deeply? Another common bad practice is to breathe through the mouth, when it is correct to do it through the nose, since the air that goes to the lungs must be heated to equalize the internal temperature, humidified, and filtered with dust particles, which occurs in The nostrils. Likewise, one must breathe with the diaphragm. The air inhaled through the nose must travel through the rib cage and abdominal area for it to be a deep breath. Another good practice is to breathe consciously. Become aware of the way you are breathing and correct what you are doing wrong. Finally, take care of your posture.
+
+Without air, our physical bodies would collapse in a few minutes to death. That should tell you how important it is to breathe. So take this seriously and learn to breathe. Find a way to do it, at least occasionally, in green areas, which is where there is purer air. Do physical activity. But above all, develop the habits that you consider convenient so that you can breathe better, without effort and without thinking. That's what I mean by lifestyle habits.
+
+The solution is in your hands. You have free will. You can choose how you breathe, where you breathe and how often you breathe. You and only you have the power to create habits that allow you to develop a quality life, beyond age and external conditions. And learning to breathe can be a good starting point.
