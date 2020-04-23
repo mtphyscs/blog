@@ -6,12 +6,25 @@
 
 .title {
   font-family: 'Baloo Thambi 2', cursive;
-  color: #d6d2d2;
+  // color: #d6d2d2;
+  color: #40b6e6;
+  
   font-size: 3rem;
   text-decoration: none;
+
+ 
+  margin-top: 10px;
+
+  
+  margin-left: 10px;
+  
+
+
+
 }
 .title:hover {
-  color: rgb(219, 78, 13);
+  // color: rgb(219, 78, 13);
+  color:#008001;
 }
 
 .nav-list {
@@ -22,17 +35,24 @@
 }
 
 .nav-item {
-  color: #d6d2d2;
+  // color: #d6d2d2;
+  color: #97d2e9;
+  
   font-size: 0.9rem;
   margin-right: 1.3rem;
   text-decoration: none;
 }
 
 .nav-item:hover {
-  color: rgb(219, 78, 13);
+  // color: rgb(219, 78, 13);
+ color: #008001;
 }
 
-.active-nav-item {
-  color: #67999b;
+// .active-nav-item {
+  // color: rgb(219, 78, 13);
+  // color: #67999b;
   // color: #6418c7;
+// }
+hr{
+  color: #40b6e6;
 }

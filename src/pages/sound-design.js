@@ -6,7 +6,7 @@ import Head from '../components/head'
 const SoundDesign = () => {
   return (
     <Layout>
-      <Head title="sound-design"/>
+      <Head title="Sound Design"/>
       <h1>Sound Design</h1>
       <p>SoundCloud</p>
     </Layout>

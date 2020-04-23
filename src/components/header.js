@@ -73,9 +73,9 @@ const Header = () => {
             <Link
               className={headerStyles.navItem}
               activeClassName={headerStyles.activeNavItem}
-              to="/contact"
+              to="/visual-art"
             >
-              Contact
+              Visual Art
             </Link>
           </li>
         </ul>
