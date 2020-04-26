@@ -10,9 +10,9 @@ const AboutPage = () => {
       <h1>Who Am I</h1>
 
       <p>
-        I’m a creative thinker and maker–of–software living in Miami Beach,
-        Florida. I’m passionate about the intersection of art, technology,
-        design, and philosophy.
+        I’m a creative thinker and maker–of–software based in Miami Beach,
+        Florida; born+raised in Costa Rica. I’m passionate about the
+        intersection of art, technology, design, and philosophy.
       </p>
 
       <p>
@@ -25,10 +25,10 @@ const AboutPage = () => {
       <p>
         I'm powerful enough to live in accordance with my own values, desire,
         and truths. I'm an alchemist devoted to uncovering the gems that are
-        already here.  A polymath that loves detail and being able to go
-        wherever my interests decide. I'm ever-expanding yet whole; wise enough
-        to know that there is plenty left to learn; humble and happy as I grow.
-        I'm grateful for who I am and can be.
+        already here. A polymath that loves detail and being able to go wherever
+        my interests decide. I'm ever-expanding yet whole; wise enough to know
+        that there is plenty left to learn; humble and happy as I grow. I'm
+        grateful for who I am and can be.
       </p>
       <h1>What Is mtphyscs</h1>
       <p>
