@@ -10,6 +10,7 @@ const Library = () => {
     allAmazonWishlistItem {
       edges {
         node {
+          url
           title
           image {
             url
@@ -32,13 +33,13 @@ const Library = () => {
         {data.allAmazonWishlistItem.edges.map(edge => {
           return (
             <li>
-              {/* <Link to={`/book/${edge.node.title}`}> */}
+              <a href={edge.node.url} target="_blank">
               <img
-                src={edge.node.image.url.replace("SS135_.jpg", "LL135_.jpg")}
+                src={edge.node.image.url.replace("SS135_.jpg", "FF400_.jpg")}
                 alt=""
               ></img>
               <p className={libraryStyles.a}>{edge.node.title}</p>
-              {/* </Link> */}
+              </a>
             </li>
           )
         })}
